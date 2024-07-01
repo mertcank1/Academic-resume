@@ -1,0 +1,517 @@
+---
+title: "Ali Mertcan Köse's resume"
+author: Ali Mertcan Köse
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+
+Aside
+================================================================================
+
+
+![Ali Mertcan Köse](https://d33wubrfki0l68.cloudfront.net/0550b63923746cafbdf90eed61f4fed19863f547/d1110/authors/admin/avatar_hu710dfed55f470f52a23c076e60360d70_357341_250x250_fill_q90_lanczos_center.jpg){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> alimertcankose@gmail.com
+- <i class="fa fa-github"></i> [github](https://github.com/mertcank1)
+- <i class="fa fa-linkedin"></i> [Ali Mertcan Köse](https://www.linkedin.com/in/ali-%CE%B1%CE%BB%CE%AE-mertcan-k%C3%B6se-84715a202/)
+- <i class="fa fa-globe"></i> [Web Site]( https://alimertcankose.netlify.app/)
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+
+<html>
+<head>
+    <style>
+        h1, h2, h3, h4, h5, h6 {
+            color: #00968;
+        }
+
+        progress {
+            width: 200px;
+            height: 25px;
+            border: 2px solid gray;
+            position: relative;
+        }
+
+        progress::before {
+            content: attr(data-label);
+            position: absolute;
+            width: 100%;
+            text-align: left;
+            color: white;
+        }
+
+        progress::-webkit-progress-bar {
+            background-color: #d9d9d9;
+        }
+
+        progress::-webkit-progress-value {
+            background-color: #969696;
+        }
+    </style>
+</head>
+
+<body>
+    <progress value="95" max="100" data-label="SPSS"></progress>
+    <progress value="90" max="100" data-label="LISREL"></progress>
+    <progress value="90" max="100" data-label="AMOS"></progress>
+    <progress value="70" max="100" data-label="MPLUS"></progress>
+    <progress value="60" max="100" data-label="R"></progress>
+    <progress value="50" max="100" data-label="PYTHON"></progress>
+</body>
+</html>
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package, you can access draft on my [*github repo*](https://github.com/mertcank1/Academic-resume).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ali Mertcan Köse {#title}
+--------------------------------------------------------------------------------
+
+### About Me
+
+I am Ph.D. Candidate of Statistics at Mimar Sinan Fine Arts University. My research interests include multivariate statistics methods such as reliability analysis, exploratory factor analysis, confirmatory factor analysis, structural equation modeling, and latent class analysis. My research continues on Bayesian latent class analysis and machine/deep learning in Genome.
+
+I work as freelancer Statistician, besides I give academic consultant service.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Eskişehir Osman Gazi University
+
+B.S. in Statistics
+
+Eskişehir, Türkiye
+
+2013
+
+### Anadolu University
+
+B.S. in Economics (Open Training Faculty)
+
+Eskişehir, Türkiye
+
+2015
+
+### Mimar Sinan Fine Arts University
+
+Msc. in Statistics
+
+İstanbul, Türkiye
+
+2018
+
+### Roma Sapienza University
+
+Ph.D in Statistics
+
+Rome, Italy
+
+2022-2023 (Visiting Scholar)
+
+### Mimar Sinan Fine Arts University
+
+Ph.D in Statistics
+
+Istanbul, Türkiye
+
+2024
+
+
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Lecturer
+
+Istanbul Kent University
+
+Istanbıl, Türkiye
+
+2020 - 2021
+
+- I taught Biostatistics, Basic Information Techonologies and Research Methods for Health Sciences
+
+### Lecturer
+
+Haliç University
+
+Istanbul, Türkiye
+
+2021 - 2023
+
+- I taught Biostatistics for Health Sciences.
+
+
+  
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Biostatistics
+
+Istanbul Kent University and Halic University
+
+İstanbul, Türkiye
+
+2020-2022
+
+### Python Programming and Artifical Intellegence
+
+Istanbul Ticaret University
+
+İstanbul, Türkiye
+
+2022-2024
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Unveiling off-target mutations in CRISPR guide RNAs:Implications for gene region specificity.
+
+The CRISPR Journal. 2024 June;7(3):168-178.
+
+N/A
+
+2024 
+
+**Kose, A. M.**, Kocadagli, O., Taştan, C., Aktan, C., Ünaldı, O. M., Güzenge, E.,Erdil, H. E.. 
+
+### Inspecting Smoking Addiction of Youth in Türkiye: A Latent Class Analysis Using the Turkish Version of the Cigarette Dependence Scale
+
+Journal of International Healthcare Manangement.2023 December:1-10.https://doi.org/10.1080/20479700.2023.2288974
+
+N/A
+
+2023 
+
+Ünal Çoker, E.  & **Köse, A.M.** 
+
+
+### Evaluation of Treatment Responses Among Subgroups of Breast Cancer Patients Receiving Neoadjuvant Chemothreapy
+
+Journal of Cancer Research and Therapeutics.19 (Suppl 2):821-826.
+
+N/A
+
+2023 
+
+Dagistanli, S., Sonmez, S., Bulut, N.,  **Köse, A.M.**  
+
+### Psychometric Evaluation of The Social Support Questionnaire for Transactions in Turkish Gender-Based Violence Sample
+
+Archives of Psychiatric Nursing.45:184-191.https://doi.org/10.1016/j.apnu.2023.06.005  
+
+N/A
+
+2023 
+
+Inan-Budak, M., Zonp, Z., **Köse, A.M.**, Saint-Arnault, D.M.
+
+### Important Factors Affecting the Transmission Rate of COVID-19 in G20 and EU
+
+Sigma Journal of Engineering and Natural Sciences.40(1):209-219.
+
+N/A
+
+2022 
+
+Kocadağlı, O., **Köse, A.M**, Gökmen, N., Özer, E., Yaman Kocadağlı, A., Bostancı, E.  
+
+### ANOM Test as an Alternative Approach to Group Comparisons
+
+Süleyman Demirel University Journal of Natural and Applied Sciences.25(1):89-98.(Turkish)
+
+N/A
+
+2021 
+
+Özaltındiş, T.,  **Köse, A.M.**, Özdamar, E.Ö.  
+
+### Serial Mediation Model of Leader Member Interaction in Work Values And Job Satisfaction
+
+Istanbul Commerce University Journal of Social Science.19(37):1-26.(Turkish)
+
+N/A
+
+2020 
+
+Yay, M., Fındıklı, A. M. & **Köse, A.M.**  
+
+### Relationship of Social Orientation and Empathy with Perception of Syrian Refugees as Threat: Structural Equation Modelling with The Examples of Çankaya and Altindağ
+
+Journal of Social Studies Politics.18(40/2):283-314.(Turkish)
+
+N/A
+
+2018 
+
+**Köse, A.M.**, Sunata, U , Deniz, E .    
+
+
+Oral Presentation {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Investigation of the Factors Quiet Quitting and Quiet Firing With The Structural Equation Modelling: A Pilot Research On Health Professional’s
+
+Oral Presentation for 10th International Conference on Advances in Statistics (ICAS)
+
+Budapest, Hungary
+
+April 2024
+
+Akbaş, M., **Köse, A.M.**
+
+
+### CRISPR: Prediction of Off-Target Levels by Using Latent Class Analysis and Bayesian Latent Class Analysis
+
+Poster for HARMONY Society for Bayesian Methods in Epidemiology and Diagnostics
+
+Brussels, Belgium
+
+February 2024
+
+**Köse, A.M.** 
+
+### Off-Target Prediction in CRISPR-Cas9 Gene Editing Using Machine Learning
+
+Oral Presentation for Classification and Data Science in the Digital Age 17th conference of the International Federation of Classification Societies
+
+Porto, Portugal
+
+July 2022
+
+**Köse, A.M.**, Kocadagli, O.  
+
+### Serial Mediation Model of Leader Member Interaction in Work Values And Job Satisfaction
+
+Oral Presentation for y-BIS 2019 Young Business and Industrial Statisticians Workshop on Recent Advances in Data Science and Business Analytics
+
+Istanbul, Türkiye
+
+September 2019
+
+Yay, M., Fındıklı, A.M., **Köse, A.M.**  
+
+### Inspecting Smoking Addiction of Youth in Turkey through Latent Class Analysis
+
+Oral Presentation for 16th Conference of the International Federation of Classification Societies 
+
+Thessaloniki, Greece
+
+August 2019
+
+**Köse, A.M.**, Çoker, E.
+
+### Structural Equation Modelling About The Perception of Citizens Living in Çankaya District of Ankara Province towards the Syrian Immigrants
+
+Oral Presentation for 10. International Statistics Congress
+
+Ankara, Türkiye
+
+December 2018
+
+**Köse, A.M.**, Çoker, E
+
+
+### Structural Equation Modelling About The Perception of Citizens Living in Çankaya District of Ankara Province towards the Syrian Immigrants
+
+Oral Presentation for 10. International Statistics Congress
+
+Ankara, Türkiye
+
+December 2018
+
+**Köse, A.M.**, Howe, E.D.  
+
+### Structural Equation Modelling About The Perception of Citizens Living in Çankaya District of Ankara Province towards the Syrian Immigrants
+
+Oral Presentation for 10. International Statistics Congress
+
+Ankara, Türkiye
+
+December 2018
+
+**Köse, A.M.**, Howe, E.D. 
+
+
+### ANOM Test as an Alternative Approach to Group Comparisons
+
+Oral Presentation for 18. International Econometrics, Operation Research and Statistics Symposium.
+
+Trabzon, Türkiye
+
+October 2017
+
+**Köse A.M.**, Afacan, C.,  Özaltındiş, T., Özdamar, E.Ö.
+
+### Inspecting of Undergraduate Students of MSFAU relationships with Carrier Plan and Future Orientation towards Statistics Attitude 
+
+Oral Presentation for 18. International Econometrics, Operation Research and Statistics Symposium.
+
+Trabzon, Türkiye
+
+October 2017
+
+Afacan, C., **Köse A.M.**, Özaltındiş, T., Özdamar, E.Ö.
+
+### Implemention of data mining technics considering number of refugees
+
+Oral Presentation for 17. International Econometrics, Operation Research and Statistics Symposium.
+
+Sivas, Türkiye
+
+June 2016
+
+**Köse, A.M.** , Çakmak Pehlivanlı, A. 
+
+
+Awards {data-icon=trophy}
+--------------------------------------------------------------------------------
+
+### 16th Conference of the International Federation of Classification Societies- Student/ Postdoctoral Fellow Paper Competition and Travel Award.
+
+16th Conference of the International Federation of Classification Societies 
+
+Thessaloniki, Greece
+
+August 2019
+
+### Erasmus  Exchange Student Grants 
+
+Rome Sapienza University-Department of Statistics (Ph.D. Program) 
+
+Rome, Italy
+
+20.01.2023-01.06.2023 
+
+
+Project {data-icon=briefcase}
+--------------------------------------------------------------------------------
+
+### HARMONY-Cost Action- CA18208 – STSM project
+
+Depression prevalence estimation using an imperfect diagnostic depression screening tool in NHANES ( The National Health and Nutrition Examination Survey). Supervisor: Dr. Felix Fischer
+
+Charite University,Berlin, Germany
+
+27.03.2022-29.05.2022
+
+
+Instructor {data-icon=bar-chart}
+--------------------------------------------------------------------------------
+
+### Turkish Ophthalmological Association 
+
+SPSS Training School-Instructor
+
+Istanbul, Türkiye
+
+12.06.2021-13.06.2021
+
+
+Workshop {data-icon=card}
+--------------------------------------------------------------------------------
+
+### HARMONY Advances Training School on Bayesian Methods "Going Beyond Test Evaluation and Prevalence Estimation" 
+
+Instructors:  Dr. Matthew Denwood, Eleftherios Meletis, Dr. Giles Innocent.
+
+VISAVET Health Surveillance Center, Universidad Complutense, Madrid, Spain
+
+12.07.2023-14.07.2023
+
+
+### HARMONY Training Workshop on Bayesian Latent Class models for diagnostic test evaluation and true prevalence estimation 
+
+Instructors:  Dr. Polychronis Kostoulas, Dr. Constantinos Tsiamis, Dr. Konstantinos Pateras, Eleftherios Meletis 
+
+Thessaly University, Larissa, Greece
+
+20.09.2021-22.09.2021
+
+### HARMONY Training Workshop on Application of Bayesian latent class models to multi- test, multi-population datasets with a focus on medical and veterinary applications
+
+Instructor:  Dr. Matt Denwood (Online)
+
+University of Copenhagen, Copenhagen, Denmark
+
+28.06.20221-01.07.2021
+
+### Symbolic Data Analysis: Parametric Multivariate Analysis of Interval Data
+
+Instructors:  Dr.Paula Brito and Dr.Pedro Duarte Silva
+
+University of Macedonia, Thessaloniki, Greece
+
+26.08.2019
+
+
+Interships {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### intern
+
+Capital Markets Board of Turkey   
+
+Ankara, Türkiye
+
+11.02.2013-15.02.2013
+
+
+### intern
+
+Undersecretary of Treasury of Republic of Turkey 
+
+Ankara, Türkiye
+
+11.02.2013-15.02.2013
+
+### intern
+
+Optimar Research Company 
+
+Ankara, Türkiye
+
+28.12.2012-27.01.2013
+
+### intern
+
+Department of Accounting General Directorate ,Central Bank of The Republic of Turkey  
+
+Ankara, Türkiye
+
+17.09.2012-22.09.2012
+
+### intern
+
+HalkBank
+
+Ankara, Türkiye
+
+13.06.2011-01.07.2011 
