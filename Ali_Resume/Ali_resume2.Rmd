@@ -15,7 +15,7 @@ Aside
 ================================================================================
 
 
-![Ali Mertcan Köse](https://d33wubrfki0l68.cloudfront.net/0550b63923746cafbdf90eed61f4fed19863f547/d1110/authors/admin/avatar_hu710dfed55f470f52a23c076e60360d70_357341_250x250_fill_q90_lanczos_center.jpg){width=80%}
+![Ali Mertcan Köse](https://raw.githubusercontent.com/mertcank1/Academic-resume/main/Ali_Resume/alis.jpg){width=80%}
 
 
 Contact Info {#contact}
