@@ -15,7 +15,7 @@ Aside
 ================================================================================
 
 
-![Alis](https://raw.githubusercontent.com/mertcank1/Academic-resume/main/Ali_Resume/alis.jpg){width=80%}
+![Ali Mertcan Köse](https://raw.githubusercontent.com/mertcank1/Academic-resume/main/Ali_Resume/alis.jpg){width=80%}
 
 
 Contact Info {#contact}
