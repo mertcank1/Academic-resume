@@ -1,6 +1,6 @@
 # Academic-Resume
 
-<font size=250px>$\textcolor{blue}{\textbf{Life is Blue}}$</font>
+<font size="25">$\textcolor{blue}{\textbf{Life is Blue}}$</font>
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
