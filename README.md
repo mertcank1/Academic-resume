@@ -1,11 +1,6 @@
----
-header-includes: 
-                 \usepackage{xcolor}
-                 \definecolor{alizarin}{rgb}{0.82, 0.1, 0.26}
----
 # Academic-Resume
 
-<span style="color:red;">your text here> </span>
+<span style="color:red;"> your text here> </span>
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
