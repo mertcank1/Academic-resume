@@ -1,6 +1,7 @@
 # Academic-Resume
 
-$${\color{blue}Blue}$$
+This is a paragraph that for some reason we want blue.
+{: .blue}
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
