@@ -1,4 +1,4 @@
-# Academic-resume
+# Academic-Resume
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
 
