@@ -1,8 +1,6 @@
 # Academic-Resume
 
-<font size=25px>$\textcolor{blue}{\textbf{Life is Blue}}$</font>
-
-<font size=8px><center>[[ sensor.time.state ]]</font></center
+<font size=250px>$\textcolor{blue}{\textbf{Life is Blue}}$</font>
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
