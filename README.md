@@ -1,7 +1,6 @@
 # Academic-Resume
 
-> Roses are [red and **bold**]{color="red"} and
-> violets are [blue]{color="blue"}.
+<span style="color:red;">your text here > </span>
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
