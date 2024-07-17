@@ -1,6 +1,6 @@
 # Academic-Resume
 
-<font size=8px>$\textcolor{blue}{\textbf{Life is Blue}}$</font>
+<font size=25px>$\textcolor{blue}{\textbf{Life is Blue}}$</font>
 
 <font size=8px><center>[[ sensor.time.state ]]</font></center
 
