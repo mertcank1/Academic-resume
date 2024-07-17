@@ -1,5 +1,5 @@
 # Academic-Resume
-
+\justify
 $${\color{blue}Blue}$$
 
 you can reach academic resume draft in this repo. 
