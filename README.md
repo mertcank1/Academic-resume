@@ -1,6 +1,6 @@
 # Academic-Resume
 
-$\texcolor{blue}\space \textbf{My Bold Text, in red color}$
+$\texcolor{blue} \space \textbf{My Bold Text, in red color}$
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
