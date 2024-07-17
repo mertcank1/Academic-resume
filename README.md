@@ -1,5 +1,5 @@
 # Academic-Resume
-\justify
+$\justify$
 
 $${\color{blue}Blue}$$
 
