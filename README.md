@@ -2,6 +2,7 @@
 
 <font size="50">$\textcolor{blue}{\textbf{Life is Blue}}$</font>
 
+<font size=8px><center>[[ sensor.time.state ]]</font></center
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
 
