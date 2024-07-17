@@ -1,6 +1,8 @@
 # Academic-Resume
 
-<span style="color:red">some **This is Red Bold.** text</span>.
+<span style="color:red">
+Text content
+</span>
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
