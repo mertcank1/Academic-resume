@@ -2,9 +2,6 @@
 
 <font size="25">$\textcolor{blue}{\textbf{Life is Blue}}$</font>
 
-<font size=4px><center> Déplacement vers Medial : <br>[[ sensor.waze_travel_time.state ]] Minutes</font>
-<br><br><br><be>
-
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
 
