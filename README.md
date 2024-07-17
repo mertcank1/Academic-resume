@@ -1,6 +1,6 @@
 # Academic-Resume
 
-<strong style="color: red; opacity: 0.80;">My Bold Text, in red color.</strong>
+$\texcolor{blue}\space \textbf{My Bold Text, in red color}$
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
