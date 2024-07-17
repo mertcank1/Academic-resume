@@ -1,6 +1,6 @@
 # Academic-Resume
 
-$\textcolor{blue}{\textbf{Life is Blue}}$
+$\textcolor{blue}{\textbf{LifeisBlue}}$
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
