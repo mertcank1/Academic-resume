@@ -4,6 +4,9 @@
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
