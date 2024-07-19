@@ -1,6 +1,6 @@
 # Academic-Resume
 
-$\fontsize{6pt}{7.2}{\selectfont}$
+$\fontsize{6pt}{7.2}{Ali}$
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
