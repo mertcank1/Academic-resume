@@ -2,7 +2,7 @@
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+I am in <span style="font-family:Papyrus; font-size:10em;">LOVE!</span>
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
