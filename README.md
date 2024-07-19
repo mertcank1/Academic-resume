@@ -2,7 +2,7 @@
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
-<span style="font-size:0.5em;">Text goes here</span>
+<span style="font-size:5em;">Text goes here</span>
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
