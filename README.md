@@ -1,6 +1,7 @@
 # Academic-Resume
 
 $\fontsize{6pt}{7.2}\selectfont$
+
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
 
