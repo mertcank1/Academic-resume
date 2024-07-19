@@ -4,11 +4,7 @@
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
-```
-element { 
-  font-size: 75;
-}
-```
+
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
 
