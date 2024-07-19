@@ -1,8 +1,8 @@
 # Academic-Resume
 
+$\fontsize{6pt}{7.2}\selectfont$
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
-In his beard lived three <span style="color:red">cardinals</span>.
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
