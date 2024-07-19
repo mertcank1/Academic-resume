@@ -4,7 +4,7 @@
 
 $\textcolor{blue}{\textbf{Life is Blue}}$
 
-<yellow> red color markdown text</yellow></p>
+<font size="35">your_text_here</font>
 
 you can reach academic resume draft in this repo. 
 enjoy it :muscle:
